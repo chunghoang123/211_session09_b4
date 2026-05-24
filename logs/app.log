@@ -1,0 +1,15 @@
+2026-05-24 19:30:31 [restartedMain] INFO  org.example.b4.B4Application - Starting B4Application using Java 17.0.12 with PID 21376 (C:\Users\chung\OneDrive\Desktop\211_java_Web_Service\session09\b4\build\classes\java\main started by chung in C:\Users\chung\OneDrive\Desktop\211_java_Web_Service\session09\b4)
+2026-05-24 19:30:31 [restartedMain] INFO  org.example.b4.B4Application - The following 1 profile is active: "prod"
+2026-05-24 19:30:31 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-05-24 19:30:31 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-05-24 19:30:32 [restartedMain] INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2026-05-24 19:30:32 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2026-05-24 19:30:32 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2026-05-24 19:30:32 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-05-24 19:30:32 [restartedMain] INFO  o.s.b.w.c.s.WebApplicationContextInitializer - Root WebApplicationContext: initialization completed in 1136 ms
+2026-05-24 19:30:33 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2026-05-24 19:30:33 [restartedMain] INFO  o.s.boot.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2026-05-24 19:30:33 [restartedMain] INFO  org.example.b4.B4Application - Started B4Application in 2.584 seconds (process running for 3.544)
+2026-05-24 19:30:33 [restartedMain] INFO  org.example.b4.service.DemoService - Info message
+2026-05-24 19:30:33 [restartedMain] WARN  org.example.b4.service.DemoService - Warn message
+2026-05-24 19:30:33 [restartedMain] ERROR org.example.b4.service.DemoService - Error message
